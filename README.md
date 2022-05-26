@@ -3,5 +3,5 @@
 
 Para rodar esse projeto, você precisa executar:
 ```
-npm i
+node index.js
 ```
