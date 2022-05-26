@@ -5,3 +5,4 @@ Para rodar esse projeto, você precisa executar:
 ```
 node index.js
 ```
+:)
